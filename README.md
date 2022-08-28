@@ -1,4 +1,4 @@
-# -Bascom_avr-Thermometer.4
+# -Bascom_avr-Thermometer
 
 <p align="center">
 <img src="./pic.jpg" height="240">
